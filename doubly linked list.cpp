@@ -111,7 +111,7 @@ int main(){
     Linked *head = nullptr;
 
     add(head, 1);
-    add(head, 3312);
+    add(head, 1321);
     add(head, 14123);
 
     print(head);
