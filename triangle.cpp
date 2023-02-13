@@ -1,3 +1,6 @@
+//oh yeah this is also made by chatGPT
+//from the name, it draws a triangle
+
 #include <GL/gl.h>
 #include <GL/glu.h>
 
