@@ -1,3 +1,11 @@
+/*
+*   how to run this code:
+*   the input comes from main's argv, inputting them comes after you put the application's name
+*   e.g .\hashtable.exe val1 val2 val3
+*   argv[0] contains the filename which is .\hashtable.exe, while argv[1] contains val1, etc etc
+*/  
+
+
 #include <iostream>
 #include <unordered_map>
 #include <vector>
@@ -32,7 +40,7 @@ std::unordered_map<std::string,std::string> createCharMap(std::vector<std::strin
 }
 
 /*
-*   Template/generics provides a code/function that works with multiple data types
+*   Template/generics provides a code/function that works with multiple data types 
 */
 template <class T>
 void printmap(std::unordered_map<T, T> map){
