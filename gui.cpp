@@ -1,5 +1,5 @@
 //this is a code mostly made by chatGPT
-//it works but yeah i dont understand any of these
+//it works but yeah i dont understand any of these...
 
 #include <windows.h>
 #define IDC_MAIN_EDIT 101
